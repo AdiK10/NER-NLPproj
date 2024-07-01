@@ -4,7 +4,7 @@
 
 This repository contains code in which a single transformer model called XLM-RoBERTa has be fine-tuned to perform named entity recognition (NER) across 4 languages - German, French, Italian, and English. NER is a common NLP task that identifies entities like people, organizations, or locations in text. These entities can be used for various applications such as gaining insights from company documents, augmenting the quality of search engines, or simply building a structured database from a corpus.
 
-To simulate the real world, I have assumed that we want to perform NER for a customer based in Switzerland, where there are 4 national languages, with English often serving as a bridge between them. I wanted to build the system for Indian languages but there is a huge lack of data in Indian languages compared to European languages (hopefully that changes!).
+To simulate the real world, I have assumed that we want to perform NER for a customer based in Switzerland, where there are 4 national languages, with English often serving as a bridge between them.
 
 # Dataset
 
